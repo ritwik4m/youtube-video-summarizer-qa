@@ -1,0 +1,18 @@
+# Byte-compiled / temporary files
+__pycache__/
+*.py[cod]
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+
+# Model caches
+.cache/
+.huggingface/
+
+# Environment variables
+.env
